@@ -1,0 +1,161 @@
+/* 
+  Localizable.strings
+  Dogtector
+
+  Created by Bartłomiej Pluta
+  
+*/
+
+// MARK: - General
+"GlobalBack" = "Wróć";
+"GlobalAppName" = "Dogtector";
+"GlobalClose" = "Zamknij";
+"GlobalEnable" = "Włącz";
+"GlobalOrAlternative" = "Lub";
+"GlobalTryAgain" = "Spróbuj ponownie";
+"GlobalContinue" = "Kontynuuj";
+"GlobalUnknownError" = "Wystąpił nieznany błąd";
+
+// MARK: - Detection preview
+"CameraDetectionNotFound" = "Nic nie znaleziono";
+"CameraProcessingState" = "Przetwarzanie...";
+"PermissionCameraAccessButtonTitle" = "Uruchom aparat";
+"PermissionOpenSettingsButtonTitle" = "Otwórz ustawienia";
+"PermissionPickFromGalleryButtonTitle" = "Wybierz zdjęcie z galerii";
+"PermissionAllowAccessInfoMessage" = "Zezwól na dostęp do aparatu, aby móc robić zdjęcia i rozpoznawać psy na żywo bezpośrednio przez podgląd aparatu";
+"PermissionOpenSettingsInfoMessage" = "Aby móc robić zdjęcia i rozpoznawać psy na żywo, wejdź w ustawienia systemowe i zezwól na dostęp do aparatu";
+
+"SettingsOverlayFrameColor" = "Kolor ramki";
+"SettingsOverlayAnnotationSize" = "Rozmiar adnotacji";
+"SettingsOverlayShowDetectionFrameSwitchTitle" = "Pokaż ramkę detekcji";
+"SettingsOverlayShowDetectionAnnotationSwitchTitle" = "Pokaż adnotację detekcji";
+"SettingsOverlayLiveDetectionDisabledMessage" = "Detekcja na żywo jest wyłączona";
+
+"CameraSonfigurationFailureMessage" = "Konfiguracja aparatu nie powiodła się";
+"ImageSavedSuccessMessage" = "Zdjęcie zostało zapisane";
+"ImageProcessingFailureMessage" = "Wystąpił błąd podczas przetwarzania obrazu";
+"ImageTakeFailureMessage" = "Nie udało się zrobić zdjęcia";
+"FlashTriggerFailureMessage" = "Wystąpił błąd podczas przełączania lampy błyskowej";
+"DetectorSetupFailureMessage" = "Wystąpił błąd przy konfiguracji detektora";
+"SystemSettingsOpenFailureMessage" = "Wystąpił bład podczas otwierania ustawień systemowych";
+
+"LiveDetectionHasBeenEnabled" = "Detekcja na żywo wł.";
+"LiveDetectionHasBeenDisabled" = "Detekcja na żywo wył.";
+"FlashHasBeenEnabled" = "Lampa błyskowa wł.";
+"FlashHasBeenDisabled" = "Lampa błyskowa wył.";
+
+"ImageProcessingSaveError" = "Zapisywanie zdjęcia nie powiodło się";
+"ImageProcessingNotAuthorizedError" = "Brak uprawnień dostępu do zdjęć";
+
+"CameraTakeImageError" = "Nie udało się zrobić zdjęcia";
+"CameraNotAuthorizedError" = "Brak uprawnień dostępu do aparatu";
+
+// MARK: - Settings
+"SettingsTitle" = "Ustawienia";
+"SettingsPreferencesSectionTitle" = "Preferencje";
+"SettingsMenuSectionTitle" = "Menu";
+"SettingsLiveDetectionSwitchTitle" = "Włącz detekcję na żywo";
+"SettingsLiveDetectionSwitchDescription" = "Kiedy wyłączysz detekcję na żywo możesz dalej korzystać z detekcji po wybraniu zdjęcia z galerii lub po zrobieniu zdjęcia aparatem";
+"SettingsDonationTitle" = "Wesprzyj twrórcę";
+"SettingsAboutAppTitle" = "O aplikacji";
+"SettingsRateAppTitle" = "Oceń aplikację";
+"SettingsResetToDefaultsTitle" = "Przywróć ustawienia";
+"SettingsShareAppTitle" = "Udostępnij aplikację";
+"SettingsHelpTitle" = "Pomoc";
+"SettingsShareSheetErrorMessage" = "Wystąpił błąd podczas wyświetlania menu udostępniania";
+
+"SettingsRestoreAlertTitle" = "Przywróć ustawienia";
+"SettingsRestoreAlertQuestion" = "Czy chcesz przywrócić aplikację do ustawień fabrycznych?";
+"SettingsRestoreAlertProceedButtonTitle" = "Przywróć";
+"SettingsRestoreSuccessMessage" = "Aplikacja została odtworzona do ustawień fabrycznych";
+
+// MARK: - Low power mode sheet
+"LowPowerModeSheetTitle" = "Tryb niskiego zużycia energii";
+"LowPowerModeSheetSubtitle" = "Twoje urządzenie działa w trybie niskiego zużycia energii, który powoduje wolniejsze działanie detekcji w tybie \"na żywo\"";
+"LowPowerModeSheetCaption" = "Jeśli chcesz oszczędzać baterię – wyłącz detekcję \"na żywo\" i korzystaj z detekcji przez zrobienie zdjęcia lub przez wybranie zdjęcia z galerii";
+"LowPowerModeSheetEnableLiveDetectionSwitchTitle" = "Detekcja na żywo";
+
+// MARK: - Detection details
+"DetectionObservationTitle" = "Obserwacja %@";
+"DetectionDetailsAllObservationsTitle" = "Obserwacje";
+"DetectionDetailsSingleObservationTitle" = "Szczegóły";
+
+// MARK: - Licences
+"LicencesTitle" = "Licencje";
+
+// MARK: - About
+"AboutVersionDescription" = "Wersja %@";
+"AboutDescription" = "Dogtector powstał jako projekt hobbystyczny i jest rezultatem kilkuset godzin jednoosobowej pracy nad aplikacją oraz nad sztuczną inteligencją.\n\nKimkolwiek jesteś, dziękuję za pobranie Dogtectora i mam nadzieję, że sprawi Ci tyle przyjemności, ile mi sprawiło tworzenie tej aplikacji,\n\nBartek";
+"AboutSendDonationTitle" = "Wesprzyj twórcę";
+"AboutLicencesTitle" = "Licencje";
+"AboutCopyDebugData" = "Skopiuj dane do debugowania";
+"AboutDedicationInfoTitle" = "Dla Smmmy'ego";
+"AboutDedicationInfoDescripton" = "Najlepszego przewodnika po Koh Phangan";
+"AboutAuthorCaption" = "Made with ♥️ by Bartłomiej Pluta";
+"AboutDebugDataCopySuccessMessage" = "Dane do debugowania zostały skopiowane";
+"AboutDebugDataCopyFailureMessage" = "Danie nie mogły zostać skopiowane";
+"AboutUnknownSystemVersion" = "Nieznana";
+
+// MARK: - Object details
+"ObjectDetailsAlternativeNamesHeaderTitle" = "Inne nazwy";
+"ObjectDetailsOriginCountriesHeaderTitle" = "Pochodzenie";
+"ObjectDetailsLearnMoreButtonTitle" = "Dowiedz się więcej";
+"ObjectDetailsDetectionAccuracyInfo" = "Pewność detekcji %@";
+"ObjectDetailsNoNameTitle" = "Nieznany";
+
+// MARK: - Welcome scene
+"WelcomeSceneWelcomeTitle" = "Witaj";
+"WelcomeSceneWelcomeAppName" = "w Dogtectorze";
+
+"WelcomeScemeLiveDetectionTitle" = "Detekcja na żywo";
+"WelcomeScemeLiveDetectionDescrption" = "Nakieruj aparat na psa, a aplikacja natychmiast pomoże Ci rozpoznać jego rasę";
+
+"WelcomeSceneDiscoverTitle" = "Odkrywaj nowe psy";
+"WelcomeSceneDiscoverDescription" = "Aplikacja potrafi odróżniać ponad 400 różnych ras psów";
+
+"WelcomeScenePrivacyTitle" = "Detekcja bezpośrednio na urządzeniu";
+"WelcomeScenePrivacyDescription" = "Dogtector nie zbiera od Ciebie żadnych danych – co dzieje się na Twoim urządzeniu, zostaje na Twoim urządzeniu";
+
+// MARK: - Tip jar view
+"TipJarPromptTitle" = "Wesprzyj twórcę";
+"TipJarPromptDescription" = "Dogtector jest zupełnie darmową aplikacją tworzoną hobbystycznie przez jedną osobę.\n\nJeśli aplikacja Ci się spodobała, rozważ zostawienie mi napiwku w celu wsparcia dalszego rozwoju projektu. Dziękuję!";
+"TipJarSuccessMessage" = "Dziękuję za Twoje wsparcie!";
+"TipJarDoNotShowAgainSwitchTitle" = "Nie pokazuj ponownie";
+"TipJarFetchErrorDescription" = "Wystąpił problem z pobraniem dostępnych opcji wsparcia";
+"TipJarNiceGestureTipTitle" = "Miły gest 🧃";
+"TipJarNiceGestureTipDescription" = "Twój gest pomoże mi w rozwoju tej aplikacji. Dziękuję!";
+"TipJarGreatHelpTipTitle" = "Duża pomoc 🍰";
+"TipJarGreatHelpTipDescription" = "Bardzo doceniam Twoją pomoc i wsparcie. Jesteś super!";
+"TipJarAmazingSupportTipTitle" = "Wielkie wsparcie 🍕";
+"TipJarAmazingSupportTipDescription" = "Ten poziom wsparcia znaczy dla mnie bardzo wiele. Dziękuję za Twoją hojność!";
+"InAppPurchaseNoProductIdFoundError" = "Nie znaleziono identyfikatorów produktów";
+"InAppPurchaseNoProductsFoundError" = "Nie znaleziono żadnych produktów";
+"InAppPurchaseProductRequestFailedError" = "Pobieranie produktów nie powiodło się";
+"InAppPurchasePaymentWasCancelledError" = "Proces płatności został anulowany";
+"InAppPurchaseNoPurchasesToRestoreError" = "Brak produktów do przywrócenia";
+"InAppPurchaseNotAllowedtoMakePurchasesError" = "Brak uprawnień do wykonywania płatności";
+"InAppPurchaseOtherTransactionError" = "Wystąpił bład podczas płatności";
+
+// MARK: - FAQ
+"FAQTitle" = "FAQ";
+
+"FAQBreedAmountQuestion" = "Jak wiele ras jest rozróżnianych przez aplikację?";
+"FAQBreedAmountAnswer" = "Obecnie, sztuczna inteligencja, na której oparta jest detekcja w aplikacji, jest zdolna do wykrywania 417 róznych ras psów.";
+
+"FAQLiveDetectionDisabledQuestion" = "Czy mogę korzystać z detekcji po wyłączeniu trybu \"na żywo\"?";
+"FAQLiveDetectionDisabledAnswer" = "Tak, kiedy wyłączysz detekcję na żywo, dalej możesz korzystać z detekcji robiąc zdjęcia lub wybierając je z galerii.";
+
+"FAQReliabilityQuestion" = "Jak dokładne są wyniki detekcji?";
+"FAQReliabilityAnswer" = "Wyświetlane obserwacje są rezultatem interpretacji obrazu przez sztuczną inteligencję. Mimo że dla wielu przypadków zwracane wyniki wyglądają na poprawne, to nie zawsze najbardziej sugerowana rasa będzie tą właściwą – w szczególności, gdy różnice wizualne między rasami psów są niewielkie lub, gdy pies nie jest dobrze widoczny. Z tego powodu, przezentowane wyniki powinny być traktowane wyłącznie jako sugestie.";
+
+"FAQBestResultsQuestion" = "Jak mogę uzyskać najlepsze wyniki?";
+"FAQBestResultsAnswer" = "Aby uzyskać najlepsze wyniki obraz powinien być ostry, nieporuszony i musi dobrze eksponować charkterystyczne części psa, takie jak głowa czy tors. Najlepiej, aby pies na zdjęciu był wielkości minimum 1/4 całego zdjęcia i jednocześnie nie wykraczał poza granice jego ramek.";
+
+"FAQMixedBreedsQuestion" = "Czy wyniki pokazują potencjalne mieszanki ras?";
+"FAQMixedBreedsAnswer" = "Nie, sztuczna inetligencja odpowiedzialna za detekcję w aplikacji nie jest w stanie określić czy dany pies jest mieszanką innych ras. Inne rasy pokazane na liście obserwacji są kolejnymi domysłami sugerowanymi przez sztuczną inteligencję.";
+
+"FAQDeniedPermissionQuestion" = "Jak naprawić błąd braku pozwolenia na dostęp do kamery lub zdjęć?";
+"FAQDeniedPermissionAnswer" = "Jedynym sposobem na zmianę uprawnień aplikacji jest otwarcie ustawień systemowych i odszukanie zakładki ustawień aplikacji Dogtector – znajdują się tam wszystkie opcje związane ze zmianą uprawnień aplikacji.";
+
+"FAQSlowDetectionQuestion" = "Dlaczego detekcja na żywo działa u mnie tak wolno?";
+"FAQSlowDetectionAnswer" = "W pewnych okolicznościach detekcja na żywo może działać wolniej, niż można tego oczekiwać. Przykładowo, może się tak dziać wtedy, kiedy włączony jest tryb niskiego zużycia energii lub, gdy urządzenie przegrzewa się. Jednakże, niektóre urządzenia nie są w stanie sprzętowo przeprowadzać detekcji odpowiednio szybko. Funkcja ta działa najlepiej i najszybciej z urządzeniami z wbudowanym chipem Apple Neural Engine przyspieszającym przetwarzanie sieci neuronowych (iPhone'y XS i nowsze).";

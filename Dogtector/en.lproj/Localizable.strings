@@ -1,0 +1,162 @@
+/* 
+  Localizable.strings
+  Dogtector
+
+  Created by Bartłomiej Pluta
+  
+*/
+
+// MARK: - General
+"GlobalBack" = "Back";
+"GlobalAppName" = "Dogtector";
+"GlobalClose" = "Close";
+"GlobalEnable" = "Enable";
+"GlobalOrAlternative" = "Or";
+"GlobalTryAgain" = "Try again";
+"GlobalContinue" = "Continue";
+"GlobalUnknownError" = "Unknown error has occurred";
+
+// MARK: - Detection preview
+"CameraDetectionNotFound" = "Nothing found";
+"CameraProcessingState" = "Processing...";
+"PermissionCameraAccessButtonTitle" = "Enable camera";
+"PermissionOpenSettingsButtonTitle" = "Open settings";
+"PermissionPickFromGalleryButtonTitle" = "Pick image from gallery";
+"PermissionAllowAccessInfoMessage" = "Allowing the application to use the camera is necessary to take a photo or for live detection through the camera preview";
+"PermissionOpenSettingsInfoMessage" = "In order to take photo and to perform live detection, please go to the system settings and allow the app to use the camera";
+
+"SettingsOverlayFrameColor" = "Frame color";
+"SettingsOverlayAnnotationSize" = "Annotation size";
+"SettingsOverlayShowDetectionFrameSwitchTitle" = "Show detection frame";
+"SettingsOverlayShowDetectionAnnotationSwitchTitle" = "Show detection annotation";
+"SettingsOverlayLiveDetectionDisabledMessage" = "Live detection is disabled";
+
+"CameraSonfigurationFailureMessage" = "Camera configuration has failed";
+"ImageSavedSuccessMessage" = "Image has been saved";
+"ImageProcessingFailureMessage" = "Image could not be processed properly";
+"ImageTakeFailureMessage" = "Could not take a photo";
+"FlashTriggerFailureMessage" = "Flash could not be switched";
+"DetectorSetupFailureMessage" = "Detector configuration has failed";
+"SystemSettingsOpenFailureMessage" = "System settings could not be opened";
+
+"LiveDetectionHasBeenEnabled" = "Live detection on";
+"LiveDetectionHasBeenDisabled" = "Live detection off";
+"FlashHasBeenEnabled" = "Flash on";
+"FlashHasBeenDisabled" = "Flash off";
+
+"ImageProcessingSaveError" = "Image could not be saved";
+"ImageProcessingNotAuthorizedError" = "Access to photos has been denied";
+
+"CameraTakeImageError" = "Could not take a photo";
+"CameraNotAuthorizedError" = "Access to camera has been denied";
+
+// MARK: - Settings
+"SettingsTitle" = "Settings";
+"SettingsPreferencesSectionTitle" = "Preferences";
+"SettingsMenuSectionTitle" = "Menu";
+"SettingsLiveDetectionSwitchTitle" = "Enable live detection";
+"SettingsLiveDetectionSwitchDescription" = "When disabled you can still detect dogs by taking a photo or by picking image from gallery";
+"SettingsDonationTitle" = "Support the creator";
+"SettingsAboutAppTitle" = "About application";
+"SettingsRateAppTitle" = "Rate application";
+"SettingsResetToDefaultsTitle" = "Restore settings";
+"SettingsShareAppTitle" = "Share application";
+"SettingsHelpTitle" = "Help";
+"SettingsShareSheetErrorMessage" = "Share sheet could not be presented";
+
+"SettingsRestoreAlertTitle" = "Restore settings";
+"SettingsRestoreAlertQuestion" = "Do you want to restore the application to default settings?";
+"SettingsRestoreAlertProceedButtonTitle" = "Restore";
+"SettingsRestoreSuccessMessage" = "App has been restored to the default settings";
+
+// MARK: - Low power mode sheet
+"LowPowerModeSheetTitle" = "Low power mode";
+"LowPowerModeSheetSubtitle" = "Your device runs in the low power mode which reduces speed of live detection";
+"LowPowerModeSheetCaption" = "If you want to preserve the battery – turn off the live detection mode and perform detection by taking photos or by picking images from the gallery";
+"LowPowerModeSheetEnableLiveDetectionSwitchTitle" = "Live detection";
+
+// MARK: - Detection details
+"DetectionObservationTitle" = "Observation %@";
+"DetectionDetailsAllObservationsTitle" = "Observations";
+"DetectionDetailsSingleObservationTitle" = "Details";
+
+// MARK: - Licences
+"LicencesTitle" = "Licences";
+
+// MARK: - About
+"AboutVersionDescription" = "Version %@";
+"AboutDescription" = "Dogtector has been developed as hobbystic project and is a result of few hundred hours of work of just one person on both aplication and artificial intelligence.\n\nWhoever you are, I would like to thank you for downloading Dogtector and I hope you enjoy using it as much as I have during creation of this application,\n\nBart";
+"AboutSendDonationTitle" = "Support the creator";
+"AboutLicencesTitle" = "Licences";
+"AboutCopyDebugData" = "Copy debug data";
+"AboutDedicationInfoTitle" = "Dedicated to Sammy";
+"AboutDedicationInfoDescripton" = "The best guide to Koh Phangan";
+"AboutAuthorCaption" = "Made with ♥️ by Bartłomiej Pluta";
+"AboutDebugDataCopySuccessMessage" = "Debug data has been copied";
+"AboutDebugDataCopyFailureMessage" = "Debug data could not be copied";
+"AboutUnknownSystemVersion" = "Unknown";
+
+// MARK: - Object details
+"ObjectDetailsAlternativeNamesHeaderTitle" = "Alternative names";
+"ObjectDetailsOriginCountriesHeaderTitle" = "Origin";
+"ObjectDetailsLearnMoreButtonTitle" = "Learn more";
+"ObjectDetailsDetectionAccuracyInfo" = "Detection confidence %@";
+"ObjectDetailsNoNameTitle" = "Unknown";
+
+// MARK: - Welcome scene
+"WelcomeSceneWelcomeTitle" = "Welcome to";
+"WelcomeSceneWelcomeAppName" = "Dogtector";
+
+"WelcomeScemeLiveDetectionTitle" = "Live detection";
+"WelcomeScemeLiveDetectionDescrption" = "Simply point the camera onto a dog and the app will instantly help you to recognize its breed";
+
+"WelcomeSceneDiscoverTitle" = "Discover new breeds";
+"WelcomeSceneDiscoverDescription" = "The app is capable of classifying more than 400 different breeds of dogs";
+
+"WelcomeScenePrivacyTitle" = "On-device detection";
+"WelcomeScenePrivacyDescription" = "Dogtector does not collect any data from you – what happens on your device, stays on your device";
+
+// MARK: - Tip jar view
+"TipJarPromptTitle" = "Support the creator";
+"TipJarPromptDescription" = "Dogtector is 100% free application and is developed and maintained by just one person.\n\nIf you liked the app, please consider sending me a tip to support further development of the project. Thank you!";
+"TipJarSuccessMessage" = "Thank you for your support!";
+"TipJarDoNotShowAgainSwitchTitle" = "Do not show again";
+"TipJarFetchErrorDescription" = "Available support options could not be loaded properly";
+"TipJarNiceGestureTipTitle" = "Nice gesture 🧃";
+"TipJarNiceGestureTipDescription" = "Your gesture will help me to develop this app. Thank you!";
+"TipJarGreatHelpTipTitle" = "Great help 🍰";
+"TipJarGreatHelpTipDescription" = "I really appreciate your help and support. You’re awesome!";
+"TipJarAmazingSupportTipTitle" = "Amazing support 🍕";
+"TipJarAmazingSupportTipDescription" = "This level of support means a lot for me. Thank you for being so generous!";
+"InAppPurchaseNoProductIdFoundError" = "No product identifiers found";
+"InAppPurchaseNoProductsFoundError" = "No products found";
+"InAppPurchaseProductRequestFailedError" = "Could not fetch available products";
+"InAppPurchasePaymentWasCancelledError" = "Purchase process has been cancelled";
+"InAppPurchaseNoPurchasesToRestoreError" = "No items to restore";
+"InAppPurchaseNotAllowedtoMakePurchasesError" = "Not permitted to make purchases";
+"InAppPurchaseOtherTransactionError" = "Could not process the purchase";
+
+// MARK: - FAQ
+"FAQTitle" = "FAQ";
+
+"FAQBreedAmountQuestion" = "How many dog breeds are supported by the application for detection?";
+"FAQBreedAmountAnswer" = "At present, the artificial intelligence behind the detection mechanism is capable of classifying 417 different dog breeds.";
+
+"FAQLiveDetectionDisabledQuestion" = "Can I detect dog with live detection turned off?";
+"FAQLiveDetectionDisabledAnswer" = "Yes, when you turn the live detction off, you are still able to detect dogs by picking image from gallery or by taking photo with the camera.";
+
+"FAQReliabilityQuestion" = "How reliable do detection results are?";
+"FAQReliabilityAnswer" = "Displayed detections are the result of image processing by artificial intelligence and even though in many cases they look correct, the most suggested response may not always be correct one, especially when visual differences between breeds are minimal or when dog is not well visible. That is why given detections should be treated only as suggestions.";
+
+"FAQBestResultsQuestion" = "What can I do to get the best results?";
+"FAQBestResultsAnswer" = "To get the most accurate results, the image should be sharp, motionless and should expose the most distinctive parts of a dog such as head and torso. Ideally, the dog should take at least 1/4 of image size and should not go beyond its boundaries.";
+
+"FAQMixedBreedsQuestion" = "Do results show possible breed mixes?";
+"FAQMixedBreedsAnswer" = "No, model is not capable of determining if dog is mixture of different breeds. Other breeds shown on the list are just other breed guesses suggested by the artificial intelligence.";
+
+"FAQDeniedPermissionQuestion" = "How to fix permission denied error?";
+"FAQDeniedPermissionAnswer" = "The only way to change the permissions after denial is to open the system settings and scroll down to find Dogtector settings page and set your permissions there.";
+
+"FAQSlowDetectionQuestion" = "Why does live detection work so slow for me?";
+"FAQSlowDetectionAnswer" = "In some scenarios, live detection may work slower than expected. For instance, it may happen when your device has low power mode enabled or when it is overheated. However some devices are not capable of performing live detection fast enough due to hardware limitations. The feature works best with devices loaded with Apple Neural Engine chip which accelerates processing of neural networks (iPhone XS and newer).";
+

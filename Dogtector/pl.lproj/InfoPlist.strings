@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Dogtector
+
+  Created by Bartłomiej Pluta
+  
+*/
+
+"NSPhotoLibraryAddUsageDescription" = "Aby zapisać zdjęcie konieczne jest zezwolenie aplikacji na dostęp do zdjęć";
+"NSPhotoLibraryUsageDescription" = "Aby zapisać zdjęcie konieczne jest zezwolenie aplikacji na dostęp do zdjęć";
+"NSCameraUsageDescription" = "Zezwól na dostęp do aparatu, aby móc robić zdjęcia i rozpoznawać psy na żywo bezpośrednio przez podgląd aparatu";

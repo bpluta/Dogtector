@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Dogtector
+
+  Created by Bartłomiej Pluta
+  
+*/
+
+"NSPhotoLibraryAddUsageDescription" = "In order to save Your photo it is necessary to allow the application to access photos";
+"NSPhotoLibraryUsageDescription" = "In order to save Your photo it is necessary to allow the application to access photos";
+"NSCameraUsageDescription" = "Allowing the application to use the camera is necessary to take a photo or for live detection";
