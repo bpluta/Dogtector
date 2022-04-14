@@ -34,7 +34,7 @@ struct DetectionClassInfo: Decodable, Equatable {
         alternativeNames = alternativeNamesArray ?? []
         originCountries = originCountriesArray ?? []
         infoURL = URL(string: urlString ?? "")
-        licenceInfo = licenceString != nil ? String(htmlEncodedString: licenceString ?? "") : ""
+        licenceInfo = licenceString
         miniatureImage = UIImage(named: "\(identifier)\(Self.miniatureNameSuffix)")
     }
     

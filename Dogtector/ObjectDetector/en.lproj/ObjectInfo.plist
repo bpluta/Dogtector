@@ -25,7 +25,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Affenpinscher</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -48,7 +48,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Afghan_Hound</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -70,7 +70,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Kuchi_(dog)</string>
         <key>licence</key>
-        <string>Sabawoon Nezami, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Sabawoon Nezami, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -93,7 +93,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Aidi</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -112,7 +112,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Airedale_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -130,7 +130,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Akbash</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -149,7 +149,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Akita_(dog)</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -169,7 +169,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Alano_Español</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -187,7 +187,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Alaskan_Klee_Kai</string>
         <key>licence</key>
-        <string>Just Chaos, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Just Chaos, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -204,7 +204,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Alaskan_Malamute</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -221,7 +221,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Alpine_Dachsbracke</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -239,7 +239,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Akita_(dog)</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -262,7 +262,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/American_Bulldog</string>
         <key>licence</key>
-        <string>Lauradeulofeu5, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Lauradeulofeu5, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -279,7 +279,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/American_Cocker_Spaniel</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -298,7 +298,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/American_English_Coonhound</string>
         <key>licence</key>
-        <string>By BurnAway - Maddie, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39129659</string>
+        <string><![CDATA[By BurnAway - Maddie, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=39129659]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -319,7 +319,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/American_Eskimo_Dog</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -336,7 +336,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/American_Foxhound</string>
         <key>licence</key>
-        <string>daveynin, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[daveynin, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -353,7 +353,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/American_Hairless_Terrier</string>
         <key>licence</key>
-        <string>Nyaah, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Nyaah, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -371,7 +371,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/American_Pit_Bull_Terrier</string>
         <key>licence</key>
-        <string>https://www.flickr.com/people/geoggirl/, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[https://www.flickr.com/people/geoggirl/, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -389,7 +389,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/American_Staffordshire_Terrier</string>
         <key>licence</key>
-        <string>[User:Conny48592], CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[[User:Conny48592], CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -407,7 +407,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/American_Water_Spaniel</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -425,7 +425,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Anatolian_Shepherd</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -443,7 +443,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Andalusian_Hound</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -461,7 +461,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Anglo-Français_de_Petite_Vénerie</string>
         <key>licence</key>
-        <string>Jwh at Wikipedia Luxembourg, CC BY-SA 3.0 LU &amp;lt;https://creativecommons.org/licenses/by-sa/3.0/lu/deed.en&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Jwh at Wikipedia Luxembourg, CC BY-SA 3.0 LU <https://creativecommons.org/licenses/by-sa/3.0/lu/deed.en>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -480,7 +480,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Appenzeller_Sennenhund</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -498,7 +498,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Ariegeois</string>
         <key>licence</key>
-        <string>Bautt, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Bautt, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -517,7 +517,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Armenian_Gampr_dog</string>
         <key>licence</key>
-        <string>Gampr1, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Gampr1, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -537,7 +537,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Artois_Hound</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -558,7 +558,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Australian_Cattle_Dog</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -577,7 +577,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Australian_Kelpie</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -594,7 +594,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Australian_Shepherd</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -612,7 +612,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Australian_Silky_Terrier</string>
         <key>licence</key>
-        <string>Dagur Brynjólfsson, CC BY-SA 2.0 &amp;lt;https://creativecommons.org/licenses/by-sa/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Dagur Brynjólfsson, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -630,7 +630,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Australian_Stumpy_Tail_Cattle_Dog</string>
         <key>licence</key>
-        <string>Wendy Hodges, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Wendy Hodges, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -647,7 +647,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Australian_Terrier</string>
         <key>licence</key>
-        <string>island silks, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[island silks, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -665,7 +665,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Austrian_Black_and_Tan_Hound</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -685,7 +685,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Austrian_Pinscher</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -711,7 +711,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Azawakh</string>
         <key>licence</key>
-        <string>Azawakh, Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Azawakh, Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -729,7 +729,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Barak_hound</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -747,7 +747,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Barbet_(dog)</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -769,7 +769,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Basenji</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -790,7 +790,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Basque_Shepherd_Dog</string>
         <key>licence</key>
-        <string>Palatkwapi, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Palatkwapi, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -807,7 +807,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Basset_Artésien_Normand</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -826,7 +826,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Basset_Bleu_de_Gascogne</string>
         <key>licence</key>
-        <string>Basset bleu de Gascogne Av M.W. Reichert., CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;</string>
+        <string><![CDATA[Basset bleu de Gascogne Av M.W. Reichert., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -844,7 +844,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Basset_Fauve_de_Bretagne</string>
         <key>licence</key>
-        <string>Basset fauve de bretagne Av Sannsee., CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;</string>
+        <string><![CDATA[Basset fauve de bretagne Av Sannsee., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -861,7 +861,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Grand_Basset_Griffon_Vendéen</string>
         <key>licence</key>
-        <string>Lilly Mreal name: Małgorzata Miłaszewska, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Lilly Mreal name: Małgorzata Miłaszewska, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -878,7 +878,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Basset_Hound</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -895,7 +895,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bavarian_Mountain_Hound</string>
         <key>licence</key>
-        <string>Antham1616, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Antham1616, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -913,7 +913,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Beagle</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -930,7 +930,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Beagle-Harrier</string>
         <key>licence</key>
-        <string>Grzes1966, CC0, via Wikimedia Commons</string>
+        <string><![CDATA[Grzes1966, CC0, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -951,7 +951,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bearded_Collie</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -973,7 +973,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Beauceron</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -993,7 +993,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bedlington_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1013,7 +1013,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bergamasco_Shepherd</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1034,7 +1034,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Berger_Picard</string>
         <key>licence</key>
-        <string>Peyot, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Peyot, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1049,7 +1049,7 @@
             <string>Switzerland 🇨🇭</string>
         </array>
         <key>licence</key>
-        <string>Berner, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Berner, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1068,7 +1068,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bernese_Mountain_Dog</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1088,7 +1088,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bhotia_dog</string>
         <key>licence</key>
-        <string>Shyamal L., CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Shyamal L., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1108,7 +1108,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bichon_Frise</string>
         <key>licence</key>
-        <string>Bernt Fransson, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Bernt Fransson, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1126,7 +1126,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Black_and_Tan_Coonhound</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1146,7 +1146,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Black_Mouth_Cur</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1167,7 +1167,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Black_Norwegian_Elkhound</string>
         <key>licence</key>
-        <string>Rvenes, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Rvenes, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1185,7 +1185,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Black_Russian_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1203,7 +1203,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Grand_Bleu_de_Gascogne</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1224,7 +1224,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bloodhound</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1246,7 +1246,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Blue_Lacy</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1264,7 +1264,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Blue_Picardy_Spaniel</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1281,7 +1281,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bluetick_Coonhound</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1299,7 +1299,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Boerboel</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1320,7 +1320,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bohemian_Shepherd</string>
         <key>licence</key>
-        <string>By Krosandra - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30978677</string>
+        <string><![CDATA[By Krosandra - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=30978677]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1343,7 +1343,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bolognese_(dog)</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1360,7 +1360,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Border_Collie</string>
         <key>licence</key>
-        <string>Unsplash</string>
+        <string><![CDATA[Unsplash]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1377,7 +1377,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Border_Terrier</string>
         <key>licence</key>
-        <string>Samuel Cockman, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Samuel Cockman, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1395,7 +1395,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Borzoi</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1416,7 +1416,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Boston_Terrier</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1433,7 +1433,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bouvier_des_Ardennes</string>
         <key>licence</key>
-        <string>Andreagenial, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Andreagenial, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1453,7 +1453,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bouvier_des_Flandres</string>
         <key>licence</key>
-        <string>AnetaAponik, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[AnetaAponik, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1472,7 +1472,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Boxer_(dog)</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1489,7 +1489,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Boykin_Spaniel</string>
         <key>licence</key>
-        <string>PCullomO, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[PCullomO, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1507,7 +1507,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bracco_Italiano</string>
         <key>licence</key>
-        <string>mjk23, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[mjk23, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1526,7 +1526,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Braque_d%27Auvergne</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1545,7 +1545,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Braque_du_Bourbonnais</string>
         <key>licence</key>
-        <string>mjk23, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[mjk23, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1564,7 +1564,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Braque_Francais</string>
         <key>licence</key>
-        <string>Johan &amp; Maria Michaëlsson, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Johan & Maria Michaëlsson, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1582,7 +1582,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Braque_Saint-Germain</string>
         <key>licence</key>
-        <string>Labberté K.J., CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Labberté K.J., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1602,7 +1602,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Brazilian_Dogo</string>
         <key>licence</key>
-        <string>CS1982, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[CS1982, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1621,7 +1621,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Brazilian_Terrier</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1640,7 +1640,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Briard</string>
         <key>licence</key>
-        <string>Birgit Balzer, Deutschland (uploaded by Caronna 17:00, 10 Feb 2005 (UTC)), CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Birgit Balzer, Deutschland (uploaded by Caronna 17:00, 10 Feb 2005 (UTC)), CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1658,7 +1658,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Briquet_Griffon_Vendéen</string>
         <key>licence</key>
-        <string>Alephalpha, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Alephalpha, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1679,7 +1679,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Brittany_(dog)</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1698,7 +1698,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Broholmer</string>
         <key>licence</key>
-        <string>Thrudgelmir, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Thrudgelmir, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1716,7 +1716,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bruno_Jura_Hound</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1736,7 +1736,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bucovina_Shepherd_Dog</string>
         <key>licence</key>
-        <string>Vekov, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Vekov, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1755,7 +1755,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bulldog</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1772,7 +1772,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bullmastiff</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1792,7 +1792,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bull_Terrier</string>
         <key>licence</key>
-        <string>Lilly M, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Lilly M, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1814,7 +1814,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Bully_Kutta</string>
         <key>licence</key>
-        <string>Nicolas2200, CC0, via Wikimedia Commons</string>
+        <string><![CDATA[Nicolas2200, CC0, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1833,7 +1833,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Burgos_Pointer</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1852,7 +1852,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Ca_de_Bou</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1869,7 +1869,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Cairn_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1890,7 +1890,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Canaan_Dog</string>
         <key>licence</key>
-        <string>Canaan Dog, Hodowla Samorodok Hanaanahttp://www.ruscanaan.ru, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canaan Dog, Hodowla Samorodok Hanaanahttp://www.ruscanaan.ru, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1912,7 +1912,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Canadian_Eskimo_Dog</string>
         <key>licence</key>
-        <string>Mondarruego2011, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Mondarruego2011, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1930,7 +1930,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Cane_Corso</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1948,7 +1948,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Castro_Laboreiro_Dog</string>
         <key>licence</key>
-        <string>Schiowa, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Schiowa, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1966,7 +1966,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Saint_Miguel_Cattle_Dog</string>
         <key>licence</key>
-        <string>Томасина, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Томасина, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -1983,7 +1983,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi</string>
         <key>licence</key>
-        <string>FatFairfax, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[FatFairfax, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2004,7 +2004,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Carolina_Dog</string>
         <key>licence</key>
-        <string>Noloha, CC BY-SA 2.0 DE &amp;lt;https://creativecommons.org/licenses/by-sa/2.0/de/deed.en&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Noloha, CC BY-SA 2.0 DE <https://creativecommons.org/licenses/by-sa/2.0/de/deed.en>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2022,7 +2022,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Carpathian_Shepherd_Dog</string>
         <key>licence</key>
-        <string>Alex Zelenko, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Alex Zelenko, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2042,7 +2042,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Catahoula_Leopard_Dog</string>
         <key>licence</key>
-        <string>Bugaflee, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Bugaflee, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2063,7 +2063,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Catalan_Sheepdog</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2085,7 +2085,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Caucasian_Shepherd_Dog</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2102,7 +2102,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2121,7 +2121,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Central_Asian_Shepherd_Dog</string>
         <key>licence</key>
-        <string>Halalosirambankiskecskek, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Halalosirambankiskecskek, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2141,7 +2141,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Český_fousek</string>
         <key>licence</key>
-        <string>Flickr user Srinayan Puppala (TigerPuppala), CC BY-SA 2.0 &amp;lt;https://creativecommons.org/licenses/by-sa/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Flickr user Srinayan Puppala (TigerPuppala), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2159,7 +2159,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Cesky_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2176,7 +2176,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Chesapeake_Bay_Retriever</string>
         <key>licence</key>
-        <string>Keith Rousseau at en.wikipedia, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Keith Rousseau at en.wikipedia, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2193,7 +2193,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Chihuahua_(dog)</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2211,7 +2211,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Chilean_Terrier</string>
         <key>licence</key>
-        <string>y, CC0, via Wikimedia Commons</string>
+        <string><![CDATA[y, CC0, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2228,7 +2228,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Chinese_Crested_Dog</string>
         <key>licence</key>
-        <string>Sheri Terris, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Sheri Terris, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2245,7 +2245,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Chinook_(dog)</string>
         <key>licence</key>
-        <string>jude, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[jude, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2262,7 +2262,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Chippiparai</string>
         <key>licence</key>
-        <string>Pankajakshannair Manoj, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pankajakshannair Manoj, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2279,7 +2279,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Chow_Chow</string>
         <key>licence</key>
-        <string>Remigiusz Józefowicz, CC BY-SA 2.5 PL &amp;lt;https://creativecommons.org/licenses/by-sa/2.5/pl/deed.en&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Remigiusz Józefowicz, CC BY-SA 2.5 PL <https://creativecommons.org/licenses/by-sa/2.5/pl/deed.en>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2296,7 +2296,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Clumber_Spaniel</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2314,7 +2314,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Colombian_fino_hound</string>
         <key>licence</key>
-        <string>D1090, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[D1090, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2332,7 +2332,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Combai</string>
         <key>licence</key>
-        <string>Richie2089, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Richie2089, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2349,7 +2349,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Coton_de_Tulear</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2369,7 +2369,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Cretan_Hound</string>
         <key>licence</key>
-        <string>Fainomenon, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Fainomenon, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2388,7 +2388,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Croatian_Sheepdog</string>
         <key>licence</key>
-        <string>Michala Mračková, Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Michala Mračková, Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2405,7 +2405,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Curly-coated_Retriever</string>
         <key>licence</key>
-        <string>Mattias Agar, CC BY-SA 2.0 &amp;lt;https://creativecommons.org/licenses/by-sa/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Mattias Agar, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2424,7 +2424,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Corsican_Dog</string>
         <key>licence</key>
-        <string>Küchenkraut, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Küchenkraut, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2443,7 +2443,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog</string>
         <key>licence</key>
-        <string>https://www.flickr.com/photos/olgierd-cc/, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;</string>
+        <string><![CDATA[https://www.flickr.com/photos/olgierd-cc/, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2463,7 +2463,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Dachshund</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2487,7 +2487,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Dalmatian_(dog)</string>
         <key>licence</key>
-        <string>Patisa, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Patisa, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2504,7 +2504,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Dandie_Dinmont_Terrier</string>
         <key>licence</key>
-        <string>Bonfirebuddy at Dutch Wikipedia, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Bonfirebuddy at Dutch Wikipedia, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2523,7 +2523,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Danish–Swedish_Farmdog</string>
         <key>licence</key>
-        <string>Ellen Levy Finch (User:Elf), CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Ellen Levy Finch (User:Elf), CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2541,7 +2541,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Dobermann</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2559,7 +2559,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Dogo_Argentino</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2580,7 +2580,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Guatemalan_Dogo</string>
         <key>licence</key>
-        <string>Blabriel, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Blabriel, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2600,7 +2600,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Dogue_de_Bordeaux</string>
         <key>licence</key>
-        <string>daveynin, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[daveynin, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2620,7 +2620,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Drentse_Patrijshond</string>
         <key>licence</key>
-        <string>Stefanie Joksch, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Stefanie Joksch, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2638,7 +2638,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Drever</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2656,7 +2656,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Dunker</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2675,7 +2675,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Dutch_Shepherd</string>
         <key>licence</key>
-        <string>CaroleField, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[CaroleField, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2694,7 +2694,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Dutch_Smoushond</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2712,7 +2712,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/East-European_Shepherd</string>
         <key>licence</key>
-        <string>Żywia.Towarzysz, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Żywia.Towarzysz, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2729,7 +2729,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/East_Siberian_Laika</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2747,7 +2747,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/English_Cocker_Spaniel</string>
         <key>licence</key>
-        <string>Loyalty4life, Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Loyalty4life, Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2765,7 +2765,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/English_Foxhound</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2783,7 +2783,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/English_Mastiff</string>
         <key>licence</key>
-        <string>Flickr user ocean yamaha . Photo uploaded to commons by user ltshears, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Flickr user ocean yamaha . Photo uploaded to commons by user ltshears, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2801,7 +2801,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pointer_(dog_breed)</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2821,7 +2821,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/English_Setter</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2841,7 +2841,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/English_Shepherd</string>
         <key>licence</key>
-        <string>Perryprog, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Perryprog, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2859,7 +2859,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/English_Springer_Spaniel</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2878,7 +2878,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Entlebucher_Mountain_Dog</string>
         <key>licence</key>
-        <string>Swissy.JPG: KIKKUZZO88derivative work: Pleple2000, Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Swissy.JPG: KIKKUZZO88derivative work: Pleple2000, Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2899,7 +2899,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Estonian_Hound</string>
         <key>licence</key>
-        <string>Томасина, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Томасина, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2918,7 +2918,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Estrela_Mountain_Dog</string>
         <key>licence</key>
-        <string>gailhampshire from Cradley, Malvern, U.K, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[gailhampshire from Cradley, Malvern, U.K, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2937,7 +2937,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Eurasier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2954,7 +2954,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Field_Spaniel</string>
         <key>licence</key>
-        <string>commons: Lilly Mpl.wiki: Lilly Mreal name: Małgorzata Miłaszewska-Duda, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[commons: Lilly Mpl.wiki: Lilly Mreal name: Małgorzata Miłaszewska-Duda, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2974,7 +2974,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Fila_Brasileiro</string>
         <key>licence</key>
-        <string>Cittanuvo, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Cittanuvo, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -2993,7 +2993,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Finnish_Hound</string>
         <key>licence</key>
-        <string>EtäKärppä, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[EtäKärppä, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3013,7 +3013,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Finnish_Lapphund</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3036,7 +3036,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Finnish_Spitz</string>
         <key>licence</key>
-        <string>Karelgerda.Karelgerda, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Karelgerda.Karelgerda, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3055,7 +3055,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Flat-coated_Retriever</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3076,7 +3076,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Taiwan_Dog</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3094,7 +3094,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/French_Bulldog</string>
         <key>licence</key>
-        <string>Artur Malinowski, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Artur Malinowski, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3115,7 +3115,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/French_Spaniel</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3134,7 +3134,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Galgo_Español</string>
         <key>licence</key>
-        <string>OmarCurrosSimón, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[OmarCurrosSimón, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3153,7 +3153,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Gascon_Saintongeois</string>
         <key>licence</key>
-        <string>Jérôme BARDIAU, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Jérôme BARDIAU, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3170,7 +3170,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Georgian_Shepherd</string>
         <key>licence</key>
-        <string>Konstantine Gagua, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Konstantine Gagua, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3191,7 +3191,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/German_Hound</string>
         <key>licence</key>
-        <string>Rumo, CC BY-SA 2.0 &amp;lt;https://creativecommons.org/licenses/by-sa/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Rumo, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3212,7 +3212,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/German_Longhaired_Pointer</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3230,7 +3230,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/German_Pinscher</string>
         <key>licence</key>
-        <string>Oskar Svensson, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Oskar Svensson, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3249,7 +3249,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Stichelhaar</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3270,7 +3270,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/German_Shepherd</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3290,7 +3290,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/German_Shorthaired_Pointer</string>
         <key>licence</key>
-        <string>Lilly_M, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Lilly_M, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3310,7 +3310,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/German_Spaniel</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3328,7 +3328,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/German_Spitz</string>
         <key>licence</key>
-        <string>Savannahepryor, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Savannahepryor, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3348,7 +3348,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/German_Wirehaired_Pointer</string>
         <key>licence</key>
-        <string>ad bekkers, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[ad bekkers, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3368,7 +3368,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Giant_Schnauzer</string>
         <key>licence</key>
-        <string>Paul Kounine (mischivo), CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Paul Kounine (mischivo), CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3387,7 +3387,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Glen_of_Imaal_Terrier</string>
         <key>licence</key>
-        <string>Kindall at English Wikipedia, CC0, via Wikimedia Commons</string>
+        <string><![CDATA[Kindall at English Wikipedia, CC0, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3406,7 +3406,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Golden_Retriever</string>
         <key>licence</key>
-        <string>Scott Beckner, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Scott Beckner, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3425,7 +3425,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Gordon_Setter</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3445,7 +3445,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Great_Dane</string>
         <key>licence</key>
-        <string>Melissa, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Melissa, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3465,7 +3465,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Greater_Swiss_Mountain_Dog</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3485,7 +3485,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Greek_Harehound</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3504,7 +3504,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Greenland_Dog</string>
         <key>licence</key>
-        <string>Slaunger, edited by Thegreenj, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Slaunger, edited by Thegreenj, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3522,7 +3522,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Greyhound</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3539,7 +3539,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Griffon_Bleu_de_Gascogne</string>
         <key>licence</key>
-        <string>Alephalpha, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Alephalpha, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3561,7 +3561,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Griffon_Bruxellois</string>
         <key>licence</key>
-        <string>The original uploader was Dan9186 at English Wikipedia., CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[The original uploader was Dan9186 at English Wikipedia., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3578,7 +3578,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Griffon_Fauve_de_Bretagne</string>
         <key>licence</key>
-        <string>Alephalpha, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Alephalpha, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3596,7 +3596,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Griffon_Nivernais</string>
         <key>licence</key>
-        <string>Alephalpha, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Alephalpha, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3616,7 +3616,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Groenendael_dog</string>
         <key>licence</key>
-        <string>Philco Ford, CC BY-SA 2.0 &amp;lt;https://creativecommons.org/licenses/by-sa/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Philco Ford, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3638,7 +3638,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Gull_Terrier</string>
         <key>licence</key>
-        <string>Robert Olivia, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Robert Olivia, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3657,7 +3657,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Hamiltonstövare</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3677,7 +3677,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Hanover_Hound</string>
         <key>licence</key>
-        <string>TobiasHR, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[TobiasHR, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3694,7 +3694,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Harrier_(dog)</string>
         <key>licence</key>
-        <string>Grzes1966, CC0, via Wikimedia Commons</string>
+        <string><![CDATA[Grzes1966, CC0, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3716,7 +3716,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Havanese_dog</string>
         <key>licence</key>
-        <string>Brent Soderberg, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Brent Soderberg, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3737,7 +3737,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Hokkaido_(dog)</string>
         <key>licence</key>
-        <string>Magdalena Niemiec, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Magdalena Niemiec, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3755,7 +3755,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Hortaya_borzaya</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3772,7 +3772,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Hovawart</string>
         <key>licence</key>
-        <string>Thomas Zimmermann (THWZ), CC BY-SA 3.0 DE &amp;lt;https://creativecommons.org/licenses/by-sa/3.0/de/deed.en&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Thomas Zimmermann (THWZ), CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3791,7 +3791,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Huntaway</string>
         <key>licence</key>
-        <string>23260Ches, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[23260Ches, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3809,7 +3809,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Hygen_Hound</string>
         <key>licence</key>
-        <string>Bjørn Konestabo, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Bjørn Konestabo, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3827,7 +3827,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Ibizan_Hound</string>
         <key>licence</key>
-        <string>Eigene Aufnahme, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=685905</string>
+        <string><![CDATA[Eigene Aufnahme, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=685905]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3850,7 +3850,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Icelandic_Sheepdog</string>
         <key>licence</key>
-        <string>The original uploader was Gangleri at English Wikipedia., CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[The original uploader was Gangleri at English Wikipedia., CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3867,7 +3867,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Indian_pariah_dog</string>
         <key>licence</key>
-        <string>Vengolis, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Vengolis, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3884,7 +3884,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Indian_Spitz</string>
         <key>licence</key>
-        <string>UzumakiDiggy, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[UzumakiDiggy, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3901,7 +3901,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Irish_Red_and_White_Setter</string>
         <key>licence</key>
-        <string>Томасина, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Томасина, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3920,7 +3920,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Irish_Setter</string>
         <key>licence</key>
-        <string>Victor Sounds, CC BY-SA 2.0 &amp;lt;https://creativecommons.org/licenses/by-sa/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Victor Sounds, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3938,7 +3938,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Irish_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3959,7 +3959,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Irish_Water_Spaniel</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3976,7 +3976,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Irish_wolfhound</string>
         <key>licence</key>
-        <string>Dux, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Dux, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -3993,7 +3993,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Istrian_Coarse-haired_Hound</string>
         <key>licence</key>
-        <string>Mirta12, CC0, via Wikimedia Commons</string>
+        <string><![CDATA[Mirta12, CC0, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4012,7 +4012,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Italian_Greyhound</string>
         <key>licence</key>
-        <string>christina, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[christina, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4029,7 +4029,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Jack_Russell_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4050,7 +4050,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Jagdterrier</string>
         <key>licence</key>
-        <string>Lilly M, CC BY-SA 2.5 &amp;lt;https://creativecommons.org/licenses/by-sa/2.5&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Lilly M, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4068,7 +4068,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Jämthund</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4087,7 +4087,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Japanese_Chin</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4104,7 +4104,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Japanese_Spitz</string>
         <key>licence</key>
-        <string>Brindis320, based on a previos image created by Birit, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Brindis320, based on a previos image created by Birit, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4124,7 +4124,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Japanese_Terrier</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4142,7 +4142,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Kai_Ken</string>
         <key>licence</key>
-        <string>Plopperdeplop1, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Plopperdeplop1, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4160,7 +4160,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Kangal_Shepherd_Dog</string>
         <key>licence</key>
-        <string>By Pleple2000 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=6407615</string>
+        <string><![CDATA[By Pleple2000 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=6407615]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4178,7 +4178,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Karakachan_dog</string>
         <key>licence</key>
-        <string>Franck Balzar, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Franck Balzar, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4197,7 +4197,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Karelian_Bear_Dog</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4215,7 +4215,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Karst_Shepherd</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4237,7 +4237,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Keeshond</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4255,7 +4255,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Kerry_Beagle</string>
         <key>licence</key>
-        <string>Martina Dominick, CC BY-SA 3.0 DE &amp;lt;https://creativecommons.org/licenses/by-sa/3.0/de/deed.en&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Martina Dominick, CC BY-SA 3.0 DE <https://creativecommons.org/licenses/by-sa/3.0/de/deed.en>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4273,7 +4273,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Kerry_Blue_Terrier</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4296,7 +4296,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/King_Charles_Spaniel</string>
         <key>licence</key>
-        <string>Krysta, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Krysta, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4322,7 +4322,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Kintamani_(dog)</string>
         <key>licence</key>
-        <string>Imk0278 at English Wikipedia, Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Imk0278 at English Wikipedia, Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4341,7 +4341,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Kishu</string>
         <key>licence</key>
-        <string>CJ Hammond, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[CJ Hammond, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4359,7 +4359,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Kokoni</string>
         <key>licence</key>
-        <string>Hoib3rgA, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Hoib3rgA, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4379,7 +4379,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Komondor</string>
         <key>licence</key>
-        <string>Kari, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Kari, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4398,7 +4398,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Kooikerhondje</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4416,7 +4416,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Koolie</string>
         <key>licence</key>
-        <string>Tjukurpa Koolie Club of Australia, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Tjukurpa Koolie Club of Australia, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4437,7 +4437,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Korean_Jindo</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4456,7 +4456,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Kromfohrländer</string>
         <key>licence</key>
-        <string>Marc Rünger, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Marc Rünger, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4474,7 +4474,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Kuvasz</string>
         <key>licence</key>
-        <string>Szora, Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Szora, Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4489,7 +4489,7 @@
             <string>United States 🇺🇸</string>
         </array>
         <key>licence</key>
-        <string>Cristian labrin, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Cristian labrin, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4505,7 +4505,7 @@
             <string>United States 🇺🇸</string>
         </array>
         <key>licence</key>
-        <string>By Melissaputt - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14640125</string>
+        <string><![CDATA[By Melissaputt - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14640125]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4523,7 +4523,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Labrador_Retriever</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4543,7 +4543,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Laekenois_dog</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4560,7 +4560,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Lagotto_Romagnolo</string>
         <key>licence</key>
-        <string>Entheta, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Entheta, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4577,7 +4577,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Lakeland_Terrier</string>
         <key>licence</key>
-        <string>Flickr user Srinayan Puppala (TigerPuppala), CC BY-SA 2.0 &amp;lt;https://creativecommons.org/licenses/by-sa/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Flickr user Srinayan Puppala (TigerPuppala), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4596,8 +4596,8 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Lancashire_Heeler</string>
         <key>licence</key>
-        <string>"Flickr user Svenska Mässan
-(svenskamassan), CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;,"</string>
+        <string><![CDATA["Flickr user Svenska Mässan
+(svenskamassan), CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>,"]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4615,7 +4615,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Landseer_(dog)</string>
         <key>licence</key>
-        <string>Elevage des Pandas Des Terres Rouges, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Elevage des Pandas Des Terres Rouges, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4635,7 +4635,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Lapponian_Herder</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4652,7 +4652,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Leonberger</string>
         <key>licence</key>
-        <string>Charlie Mitchell, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Charlie Mitchell, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4669,7 +4669,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Lhasa_Apso</string>
         <key>licence</key>
-        <string>Lhasaapso, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Lhasaapso, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4686,7 +4686,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Lithuanian_Hound</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4704,7 +4704,7 @@
         <key>url</key>
         <string>https://pl.wikipedia.org/wiki/Windsprite</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4724,7 +4724,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Löwchen</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4743,7 +4743,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Magyar_agár</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4760,7 +4760,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Majorca_Shepherd_Dog</string>
         <key>licence</key>
-        <string>Kriegerkalle, Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Kriegerkalle, Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4780,7 +4780,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Malinois_dog</string>
         <key>licence</key>
-        <string>wim harwig, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[wim harwig, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4798,7 +4798,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Maltese_(dog)</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4815,7 +4815,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Manchester_Terrier</string>
         <key>licence</key>
-        <string>Roger Ahlbrand, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Roger Ahlbrand, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4841,7 +4841,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Maremmano-Abruzzese_Sheepdog</string>
         <key>licence</key>
-        <string>Casabianca06, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Casabianca06, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4862,7 +4862,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/McNab_dog</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4881,7 +4881,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Xoloitzcuintle</string>
         <key>licence</key>
-        <string>Томасина, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Томасина, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4898,7 +4898,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Miniature_American_Shepherd</string>
         <key>licence</key>
-        <string>Tadeáš Bednarz, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Tadeáš Bednarz, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4916,7 +4916,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Miniature_Pinscher</string>
         <key>licence</key>
-        <string>Myminpins 12:11, 27 April 2008 (UTC), CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Myminpins 12:11, 27 April 2008 (UTC), CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4935,7 +4935,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Romanian_Mioritic_Shepherd_Dog</string>
         <key>licence</key>
-        <string>DorinRodina, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[DorinRodina, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4957,7 +4957,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Molossus_of_Epirus</string>
         <key>licence</key>
-        <string>Buzo kaos, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Buzo kaos, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4975,7 +4975,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Montenegrin_Mountain_Hound</string>
         <key>licence</key>
-        <string>Янковский Евгений, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Янковский Евгений, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -4992,7 +4992,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Moscow_Watchdog</string>
         <key>licence</key>
-        <string>Edmontcz, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Edmontcz, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5009,7 +5009,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Mountain_Cur</string>
         <key>licence</key>
-        <string>ThoHug, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[ThoHug, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5029,7 +5029,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Mudhol_Hound</string>
         <key>licence</key>
-        <string>Tharun Gowda, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Tharun Gowda, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5048,7 +5048,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Mudi</string>
         <key>licence</key>
-        <string>Taru T Torpström, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Taru T Torpström, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5066,7 +5066,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Large_Münsterländer</string>
         <key>licence</key>
-        <string>4028mdk09, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[4028mdk09, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5084,7 +5084,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Neapolitan_Mastiff</string>
         <key>licence</key>
-        <string>Flickr user gomagoti, CC BY-SA 2.0 &amp;lt;https://creativecommons.org/licenses/by-sa/2.0&amp;gt;</string>
+        <string><![CDATA[Flickr user gomagoti, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5102,7 +5102,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Newfoundland_(dog)</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5121,7 +5121,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/New_Zealand_Heading_Dog</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5138,7 +5138,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Norfolk_Terrier</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5158,7 +5158,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Norrbottenspets</string>
         <key>licence</key>
-        <string>Manjusha Kennels, CC BY-SA 3.0, https://en.wikipedia.org/w/index.php?curid=22378521</string>
+        <string><![CDATA[Manjusha Kennels, CC BY-SA 3.0, https://en.wikipedia.org/w/index.php?curid=22378521]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5178,7 +5178,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Northern_Inuit_Dog</string>
         <key>licence</key>
-        <string>Malfuros, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Malfuros, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5197,7 +5197,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Norwegian_Buhund</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5220,7 +5220,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Norwegian_Elkhound</string>
         <key>licence</key>
-        <string>ChildofMidnight at the English Wikipedia, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[ChildofMidnight at the English Wikipedia, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5239,7 +5239,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Norwegian_Lundehund</string>
         <key>licence</key>
-        <string>Andrva, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Andrva, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5256,7 +5256,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Norwich_Terrier</string>
         <key>licence</key>
-        <string>John, CC BY-SA 2.0 &amp;lt;https://creativecommons.org/licenses/by-sa/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[John, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5277,7 +5277,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Nova_Scotia_Duck_Tolling_Retriever</string>
         <key>licence</key>
-        <string>I, Toller, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[I, Toller, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5296,7 +5296,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Old_Danish_Pointer</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5313,7 +5313,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Olde_English_Bulldogge</string>
         <key>licence</key>
-        <string>Flickr user Cindy Funk, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Flickr user Cindy Funk, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5330,7 +5330,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Old_English_Sheepdog</string>
         <key>licence</key>
-        <string>Mona (uploaded by Caronna 08:14, 15 Apr 2005 (UTC)), CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Mona (uploaded by Caronna 08:14, 15 Apr 2005 (UTC)), CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5347,7 +5347,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Otterhound</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5370,7 +5370,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pachón_Navarro</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5390,7 +5390,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Papillon_(dog)</string>
         <key>licence</key>
-        <string>Gvdmoort, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Gvdmoort, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5408,7 +5408,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Parson_Russell_Terrier</string>
         <key>licence</key>
-        <string>Sadnes, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Sadnes, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5427,7 +5427,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pastor_Garafiano</string>
         <key>licence</key>
-        <string>Monimex, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Monimex, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5444,7 +5444,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Patterdale_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5468,7 +5468,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pekingese</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5485,7 +5485,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5507,7 +5507,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Perro_de_Presa_Canario</string>
         <key>licence</key>
-        <string>Smok Bazyli, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Smok Bazyli, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5531,7 +5531,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Peruvian_Hairless_Dog</string>
         <key>licence</key>
-        <string>PsamatheM, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[PsamatheM, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5551,7 +5551,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Phalène</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5568,7 +5568,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pharaoh_Hound</string>
         <key>licence</key>
-        <string>Frank Vincentz, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Frank Vincentz, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5585,7 +5585,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Phu_Quoc_Ridgeback</string>
         <key>licence</key>
-        <string>Phó Nháy, Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Phó Nháy, Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5603,7 +5603,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Picardy_Spaniel</string>
         <key>licence</key>
-        <string>Rachelle Vafidis, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Rachelle Vafidis, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5620,7 +5620,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Plott_Hound</string>
         <key>licence</key>
-        <string>James Emery, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[James Emery, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5639,7 +5639,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Podenco_Canario</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;,</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>,]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5657,7 +5657,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Poitevin_hound</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5675,7 +5675,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Polish_Greyhound</string>
         <key>licence</key>
-        <string>I, Lilly M, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[I, Lilly M, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5692,7 +5692,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Polish_Hound</string>
         <key>licence</key>
-        <string>Lukas3, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=467239</string>
+        <string><![CDATA[Lukas3, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=467239]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5710,7 +5710,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Gończy_Polski</string>
         <key>licence</key>
-        <string>CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=259353</string>
+        <string><![CDATA[CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=259353]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5728,7 +5728,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Polish_Lowland_Sheepdog</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5749,7 +5749,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Polish_Tatra_Sheepdog</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5770,7 +5770,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pomeranian_(dog)</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5790,7 +5790,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Poodle</string>
         <key>licence</key>
-        <string>mister b 1138, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[mister b 1138, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5808,7 +5808,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Porcelaine</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5827,7 +5827,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Portuguese_Podengo</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5845,7 +5845,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Portuguese_Pointer</string>
         <key>licence</key>
-        <string>Afonso Silva~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Afonso Silva~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5863,7 +5863,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Portuguese_Sheepdog</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5880,7 +5880,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Portuguese_Water_Dog</string>
         <key>licence</key>
-        <string>Flickr user Eli Christman (gammaman), CC BY-SA 2.0 &amp;lt;https://creativecommons.org/licenses/by-sa/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Flickr user Eli Christman (gammaman), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5897,7 +5897,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Posavac_Hound</string>
         <key>licence</key>
-        <string>Strojovodjazg, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Strojovodjazg, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5915,7 +5915,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pražský_Krysař%C3%ADk</string>
         <key>licence</key>
-        <string>Tomáš Čepička, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Tomáš Čepička, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5932,7 +5932,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pudelpointer</string>
         <key>licence</key>
-        <string>Sciencia58, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Sciencia58, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5950,7 +5950,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pug</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5968,7 +5968,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Puli_dog</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -5987,7 +5987,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pumi_(dog)</string>
         <key>licence</key>
-        <string>Caronna assumed (based on copyright claims)., CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Caronna assumed (based on copyright claims)., CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6008,7 +6008,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pungsan_dog</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6025,7 +6025,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pyrenean_Mastiff</string>
         <key>licence</key>
-        <string>TBjornstad 07:59, 6 October 2006 (UTC), CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[TBjornstad 07:59, 6 October 2006 (UTC), CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6045,7 +6045,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pyrenean_Mountain_Dog</string>
         <key>licence</key>
-        <string>HeartSpoon, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[HeartSpoon, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6063,7 +6063,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Pyrenean_Sheepdog</string>
         <key>licence</key>
-        <string>KeJa~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[KeJa~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6082,7 +6082,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Rafeiro_do_Alentejo</string>
         <key>licence</key>
-        <string>Copyrighted free use, https://commons.wikimedia.org/w/index.php?curid=1498155</string>
+        <string><![CDATA[Copyrighted free use, https://commons.wikimedia.org/w/index.php?curid=1498155]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6101,7 +6101,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Rajapalayam_(dog)</string>
         <key>licence</key>
-        <string>Vbala0733, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Vbala0733, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6121,7 +6121,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Rampur_Greyhound</string>
         <key>licence</key>
-        <string>Adam.J.W.C., CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Adam.J.W.C., CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6140,7 +6140,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Rastreador_Brasileiro</string>
         <key>licence</key>
-        <string>Gilson MACEDO, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Gilson MACEDO, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6160,7 +6160,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Ratonero_Bodeguero_Andaluz</string>
         <key>licence</key>
-        <string>Antoniofonty, Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Antoniofonty, Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6178,7 +6178,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Gos_Rater_Valencià</string>
         <key>licence</key>
-        <string>Monimex, Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Monimex, Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6198,7 +6198,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Rat_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6215,7 +6215,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Redbone_Coonhound</string>
         <key>licence</key>
-        <string>127177p, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[127177p, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6233,7 +6233,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Rhodesian_Ridgeback</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6250,7 +6250,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Rottweiler</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6270,7 +6270,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Rough_Collie</string>
         <key>licence</key>
-        <string>Yasu w, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Yasu w, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6287,7 +6287,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Russell_Terrier</string>
         <key>licence</key>
-        <string>DOLIRONI, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[DOLIRONI, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6304,7 +6304,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Russian_Spaniel</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6325,7 +6325,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Russkiy_Toy</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6342,7 +6342,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Russo-European_Laika</string>
         <key>licence</key>
-        <string>Flickr user Rusty Clark (rusty_clark), CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;</string>
+        <string><![CDATA[Flickr user Rusty Clark (rusty_clark), CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6360,7 +6360,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Saarloos_wolfdog</string>
         <key>licence</key>
-        <string>LaarsJuliaan, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[LaarsJuliaan, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6379,7 +6379,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Sabueso_Español</string>
         <key>licence</key>
-        <string>Steffen Heinz Caronna, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Steffen Heinz Caronna, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6397,7 +6397,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Saint-Usuge_Spaniel</string>
         <key>licence</key>
-        <string>DanielV27, Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[DanielV27, Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6418,7 +6418,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Saluki</string>
         <key>licence</key>
-        <string>Yohannvt, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Yohannvt, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6437,7 +6437,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Samoyed_(dog)</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6456,7 +6456,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Sapsali</string>
         <key>licence</key>
-        <string>Sungdo Cho from Seoul, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Sungdo Cho from Seoul, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6474,7 +6474,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Šarplaninac</string>
         <key>licence</key>
-        <string>Orjen, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Orjen, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6493,7 +6493,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Schapendoes</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6512,7 +6512,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Schillerstövare</string>
         <key>licence</key>
-        <string>Lilly Mreal name: Małgorzata Miłaszewska, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Lilly Mreal name: Małgorzata Miłaszewska, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6529,7 +6529,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Schipperke</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6548,7 +6548,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Schweizer_Laufhund</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6566,7 +6566,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Scottish_Deerhound</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6583,7 +6583,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Scottish_Terrier</string>
         <key>licence</key>
-        <string>narujen, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[narujen, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6602,7 +6602,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Sealyham_Terrier</string>
         <key>licence</key>
-        <string>Okforlicz, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Okforlicz, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6620,7 +6620,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Segugio_Italiano</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6638,7 +6638,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Serbian_Hound</string>
         <key>licence</key>
-        <string>Georging, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Georging, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6657,7 +6657,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Shar_Pei</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6676,7 +6676,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Shetland_Sheepdog</string>
         <key>licence</key>
-        <string>76boardman, CC0, via Wikimedia Commons</string>
+        <string><![CDATA[76boardman, CC0, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6698,7 +6698,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Shiba_Inu</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6716,7 +6716,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Shih_Tzu</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6734,7 +6734,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Shikoku_(dog)</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6752,7 +6752,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Siberian_Husky</string>
         <key>licence</key>
-        <string>Randi Hausken, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Randi Hausken, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6770,7 +6770,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Cirneco_dell%27Etna</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6787,7 +6787,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Silken_Windhound</string>
         <key>licence</key>
-        <string>Talismanhound, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Talismanhound, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6804,7 +6804,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Skye_Terrier</string>
         <key>licence</key>
-        <string>Flickr user Jean (7326810@N08), CC BY 2.0 &amp;lt;https:/creativecommons.org/licenses/by/2.0&amp;gt;</string>
+        <string><![CDATA[Flickr user Jean (7326810@N08), CC BY 2.0 <https:/creativecommons.org/licenses/by/2.0>]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6823,7 +6823,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Sloughi</string>
         <key>licence</key>
-        <string>Benutzer:Claggi, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Benutzer:Claggi, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6843,7 +6843,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Slovak_Cuvac</string>
         <key>licence</key>
-        <string>Pxhere</string>
+        <string><![CDATA[Pxhere]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6860,7 +6860,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Slovak_Rough-haired_Pointer</string>
         <key>licence</key>
-        <string>Martina Vernerová (breeders HP (Ing. Urban Michal)), Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Martina Vernerová (breeders HP (Ing. Urban Michal)), Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6879,7 +6879,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Slovenský_kopov</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6897,7 +6897,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Smaland_Hound</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6914,7 +6914,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Smooth_Collie</string>
         <key>licence</key>
-        <string>Jacek Proszyk, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Jacek Proszyk, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6931,7 +6931,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Smooth_Fox_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6949,7 +6949,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Soft-coated_Wheaten_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6969,7 +6969,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/South_Russian_Ovcharka</string>
         <key>licence</key>
-        <string>user:Przykuta, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[user:Przykuta, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -6991,7 +6991,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Spanish_Mastiff</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7009,7 +7009,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Spanish_Water_Dog</string>
         <key>licence</key>
-        <string>Томасина, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Томасина, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7032,7 +7032,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Spinone_Italiano</string>
         <key>licence</key>
-        <string>Caroline Granycome, CC BY-SA 2.0 &amp;lt;https://creativecommons.org/licenses/by-sa/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Caroline Granycome, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7049,7 +7049,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Sporting_Lucas_Terrier</string>
         <key>licence</key>
-        <string>Ume31, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Ume31, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7070,7 +7070,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Stabyhoun</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7087,7 +7087,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7107,7 +7107,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Standard_Schnauzer</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7127,7 +7127,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/St._Bernard_(dog)</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7144,7 +7144,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Sussex_Spaniel</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;http://creativecommons.org/licenses/by-sa/3.0/&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7161,7 +7161,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Swedish_Lapphund</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7181,7 +7181,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Swedish_Vallhund</string>
         <key>licence</key>
-        <string>TS Eriksson, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[TS Eriksson, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7202,7 +7202,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Taigan</string>
         <key>licence</key>
-        <string>By Jan Scotland (Jan Eduard) - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=498045</string>
+        <string><![CDATA[By Jan Scotland (Jan Eduard) - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=498045]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7221,7 +7221,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/English_Toy_Terrier_(Black_%26_Tan)</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7238,7 +7238,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Teddy_Roosevelt_Terrier</string>
         <key>licence</key>
-        <string>Dkm1987., Public domain, via Wikimedia Commons</string>
+        <string><![CDATA[Dkm1987., Public domain, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7255,7 +7255,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Telomian</string>
         <key>licence</key>
-        <string>June from malaysia, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[June from malaysia, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7272,7 +7272,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Treeing_Tennessee_Brindle</string>
         <key>licence</key>
-        <string>Beverly &amp; Pack, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Beverly & Pack, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7289,7 +7289,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Tenterfield_Terrier</string>
         <key>licence</key>
-        <string>Leo Zaza, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Leo Zaza, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7309,7 +7309,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Tervuren_dog</string>
         <key>licence</key>
-        <string>Patty Carlson, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Patty Carlson, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7326,7 +7326,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Thai_Bangkaew_Dog</string>
         <key>licence</key>
-        <string>By Noipow - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73047398</string>
+        <string><![CDATA[By Noipow - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73047398]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7343,7 +7343,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Thai_Ridgeback</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7360,7 +7360,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Tibetan_Mastiff</string>
         <key>licence</key>
-        <string>timquijano from Peking, People's Republic, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[timquijano from Peking, People's Republic, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7377,7 +7377,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Tibetan_spaniel</string>
         <key>licence</key>
-        <string>Ladykransteer, CC0, via Wikimedia Commons</string>
+        <string><![CDATA[Ladykransteer, CC0, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7394,7 +7394,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Tibetan_Terrier</string>
         <key>licence</key>
-        <string>PateraIncus, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[PateraIncus, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7413,7 +7413,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Tornjak</string>
         <key>licence</key>
-        <string>Canarian, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Canarian, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7437,7 +7437,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Tosa_(dog)</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7456,7 +7456,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Toy_Fox_Terrier</string>
         <key>licence</key>
-        <string>Ltshears, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Ltshears, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7476,7 +7476,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Transylvanian_Hound</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7493,7 +7493,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Treeing_Cur</string>
         <key>licence</key>
-        <string>Hummelong, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Hummelong, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7510,7 +7510,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Treeing_Walker_Coonhound</string>
         <key>licence</key>
-        <string>Pets Adviser from Brooklyn, USA, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pets Adviser from Brooklyn, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7529,7 +7529,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Tyrolean_Hound</string>
         <key>licence</key>
-        <string>Fotting, CC BY-SA 2.0 DE &amp;lt;https://creativecommons.org/licenses/by-sa/2.0/de/deed.en&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Fotting, CC BY-SA 2.0 DE <https://creativecommons.org/licenses/by-sa/2.0/de/deed.en>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7546,7 +7546,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Cimarrón_Uruguayo</string>
         <key>licence</key>
-        <string>Томасина, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Томасина, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7569,7 +7569,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Villano_de_Las_Encartaciones</string>
         <key>licence</key>
-        <string>Lankide gorritxiki, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Lankide gorritxiki, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7586,7 +7586,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Vizsla</string>
         <key>licence</key>
-        <string>Svenska Mässan from Sweden, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Svenska Mässan from Sweden, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7605,7 +7605,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Volpino_Italiano</string>
         <key>licence</key>
-        <string>Lilly Mreal name: Małgorzata Miłaszewska, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Lilly Mreal name: Małgorzata Miłaszewska, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7622,7 +7622,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Weimaraner</string>
         <key>licence</key>
-        <string>Rufus46, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Rufus46, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7639,7 +7639,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Welsh_Sheepdog</string>
         <key>licence</key>
-        <string>Kraig Donald, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Kraig Donald, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7658,7 +7658,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Welsh_Springer_Spaniel</string>
         <key>licence</key>
-        <string>Pleple2000, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pleple2000, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7675,7 +7675,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Welsh_Terrier</string>
         <key>licence</key>
-        <string>Shleiderbmx, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Shleiderbmx, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7695,7 +7695,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/West_Highland_White_Terrier</string>
         <key>licence</key>
-        <string>Pixabay</string>
+        <string><![CDATA[Pixabay]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7712,7 +7712,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/West_Siberian_Laika</string>
         <key>licence</key>
-        <string>Томасина, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Томасина, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7730,7 +7730,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Wetterhoun</string>
         <key>licence</key>
-        <string>mjk23, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[mjk23, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7749,7 +7749,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Whippet</string>
         <key>licence</key>
-        <string>madaise, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[madaise, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7768,7 +7768,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/White_Shepherd</string>
         <key>licence</key>
-        <string>DanielBendig, CC BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[DanielBendig, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7786,7 +7786,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/White_Swiss_Shepherd_Dog</string>
         <key>licence</key>
-        <string>Ilanga, CC BY 3.0 DE &amp;lt;https://creativecommons.org/licenses/by/3.0/de/deed.en&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Ilanga, CC BY 3.0 DE <https://creativecommons.org/licenses/by/3.0/de/deed.en>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7803,7 +7803,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Wire_Fox_Terrier</string>
         <key>licence</key>
-        <string>State Farm, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[State Farm, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7824,7 +7824,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Wirehaired_Pointing_Griffon</string>
         <key>licence</key>
-        <string>Krysta, CC BY 2.0 &amp;lt;https://creativecommons.org/licenses/by/2.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Krysta, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7842,7 +7842,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Wirehaired_Vizsla</string>
         <key>licence</key>
-        <string>Noveczki Katalin, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Noveczki Katalin, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
     <dict>
         <key>identifier</key>
@@ -7860,7 +7860,7 @@
         <key>url</key>
         <string>https://en.wikipedia.org/wiki/Yorkshire_Terrier</string>
         <key>licence</key>
-        <string>Pelz, CC BY-SA 3.0 &amp;lt;https://creativecommons.org/licenses/by-sa/3.0&amp;gt;, via Wikimedia Commons</string>
+        <string><![CDATA[Pelz, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons]]></string>
     </dict>
 </array>
 </plist>
